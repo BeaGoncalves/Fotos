@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fotos</string>
+    <string name="descricao_imagem">Imagem a ser selecionada pelo usuário</string>
+    <string name="text_choose_button">Selecione uma imagem</string>
+    <string name="text_open_button">Abrir camera</string>
+</resources>
